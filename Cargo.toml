@@ -1,0 +1,6 @@
+[package]
+name = "nuncio"
+version = "0.1.0"
+authors = ["Peter Johnston <pemjohns@gmail.com>", "David Hara <hodavidhara@gmail.com>"]
+
+[dependencies]
